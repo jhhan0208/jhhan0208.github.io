@@ -33,13 +33,13 @@ Here's a numbered list:
 3. Third
 
 Python code block:
-''' python
-      import numpy as np
+```python   
+    import numpy as np
     
-      def test_function(x, y):
-        z = np.sum(x, y)
-        return z     
-'''
+    def test_function(x, y):
+      z = np.sum(x, y)
+      return z     
+```
 
 Here's some inline code 'x+y'
 
