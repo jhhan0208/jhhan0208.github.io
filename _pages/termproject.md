@@ -4,7 +4,7 @@ permalink: /termproject/
 title: "My Term Project"
 author_profile: true
 header:
-  image: "/images/barcelona2.jpg"
+  image: "/images/barcelona2.PNG"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
