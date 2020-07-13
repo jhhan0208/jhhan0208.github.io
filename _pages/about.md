@@ -6,5 +6,3 @@ header:
 ---
 
 I'm an undergraduate studying Python and Data Science at Kyung Hee University.
-
-etc, etc, etc
