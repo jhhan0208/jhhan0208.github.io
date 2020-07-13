@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Han Jihoon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Suwon"
   email            :
