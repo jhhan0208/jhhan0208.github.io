@@ -24,7 +24,7 @@ What about a [link](https://github.com/)
 
 Here's a bulleted list:
 * First item
-+Second item
++ Second item
 - Third item
 
 Here's a numbered list:
@@ -33,21 +33,21 @@ Here's a numbered list:
 3. Third
 
 Python code block:
-'''python
-    import numpy as np
+''' python
+      import numpy as np
     
-    def test_function(x, y):
-      z = np.sum(x, y)
-      return z     
+      def test_function(x, y):
+        z = np.sum(x, y)
+        return z     
 '''
 
 Here's some inline code 'x+y'
 
 Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/barcelona2.jpg" alt="My Favorite Team">
+<img src="{{ site.url }}{{ site.baseurl }}/images/barcelona2.PNG" alt="My Favorite Team">
 
 Here's another image:
-![alt]({{ site.url }}{{ site.baseurl }}/images/barcelona2.jpg)
+![FC Barcelona]({{ site.url }}{{ site.baseurl }}/images/barcelona2.PNG)
 
 Here's some math:
 
