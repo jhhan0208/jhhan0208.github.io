@@ -3,7 +3,7 @@ title: "Python_Term_Project"
 date: 2020-04-14
 tags: [python, data science]
 header:
-  image: "/images/"
+  image: "/images/python.PNG"
 excerpt: "Python, Data Science"
 mathjax: "true"
 ---
