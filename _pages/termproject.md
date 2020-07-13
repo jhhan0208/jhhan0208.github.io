@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /termproject/
+permalink: /termproject.md/
 title: "My Term Project"
 author_profile: true
 ---
