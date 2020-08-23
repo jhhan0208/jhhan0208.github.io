@@ -4,7 +4,7 @@ date: 2020-04-14
 tags: [others]
 header:
   image: "/images/python.PNG"
-excerpt: "Python, Data Science"
+excerpt: "others"
 mathjax: "true"
 ---
 
