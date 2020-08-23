@@ -1,3 +1,10 @@
+---
+tags: [Data Science]
+header:
+  image: "/images/python.PNG"
+excerpt: "Data Science"
+---
+
 # 수원시 반려동물의 분포에 대한 분석
 
 ### 1) 프로젝트 목표 및 내용
