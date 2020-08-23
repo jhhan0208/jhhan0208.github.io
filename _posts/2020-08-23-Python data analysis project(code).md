@@ -724,7 +724,7 @@ def companion_animal_graph():
 companion_animal_info()
 ```
 
-실행 예시
+실행 예시(원본 배율에서 잘 안보임, 확대 가능)
 <img src="{{ site.url }}{{ site.baseurl }}/images/termproject_1.png">
 
 ### companion_animal_graph() 실행 공간
@@ -735,7 +735,7 @@ companion_animal_info()
 companion_animal_graph()
 ```
 
-실행 예시
+실행 예시(원본 배율에서 잘 안보임, 확대 가능)
 <img src="{{ site.url }}{{ site.baseurl }}/images/termproject_2.png">
 
 # 10)  4)의 가공한 데이터 원본
@@ -745,7 +745,7 @@ companion_animal_graph()
 
 ```python
 #위의 두 함수가 실행된 뒤에 표가 나올 것입니다.
-Chart_fin_1
+Chart_fin_1(원본 배율에서 잘 안보임, 확대 가능)
 ```
 <img src="{{ site.url }}{{ site.baseurl }}/images/termproject_3.PNG">
 
@@ -753,7 +753,7 @@ Chart_fin_1
 
 
 ```python
-Chart_fin_2
+Chart_fin_2(원본 배율에서 잘 안보임, 확대 가능)
 ```
 <img src="{{ site.url }}{{ site.baseurl }}/images/termproject_4.PNG">
 
@@ -761,7 +761,7 @@ Chart_fin_2
 
 
 ```python
-Chart_fin_3
+Chart_fin_3(원본 배율에서 잘 안보임, 확대 가능)
 ```
 <img src="{{ site.url }}{{ site.baseurl }}/images/termproject_5.PNG">
 
