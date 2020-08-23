@@ -1,3 +1,10 @@
+---
+tags: [Data Science]
+header:
+  image: "/images/python.PNG"
+excerpt: "Data Science"
+---
+
 # 4) 구현 내용 설명
 
 ### pandas import 하기
