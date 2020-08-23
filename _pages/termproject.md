@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /termproject/
-title: "My Term Project"
+permalink: /PythonProjects/
+title:  "MyTerm Project"
 author_profile: true
 header:
   image: "/images/barcelona2.PNG"
