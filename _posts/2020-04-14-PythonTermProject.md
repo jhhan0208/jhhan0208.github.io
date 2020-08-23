@@ -1,7 +1,7 @@
 ---
-title: "Python_Term_Project"
+title: "Website page template"
 date: 2020-04-14
-tags: [python, data science]
+tags: [others]
 header:
   image: "/images/python.PNG"
 excerpt: "Python, Data Science"
