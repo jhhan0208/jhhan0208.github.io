@@ -725,7 +725,7 @@ companion_animal_info()
 ```
 
 실행 예시
-![image.png](attachment:image.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/termproject_1.png">
 
 ### companion_animal_graph() 실행 공간
 
@@ -736,7 +736,7 @@ companion_animal_graph()
 ```
 
 실행 예시
-![image.png](attachment:image.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/termproject_2.png">
 
 # 10)  4)의 가공한 데이터 원본
 
@@ -747,6 +747,7 @@ companion_animal_graph()
 #위의 두 함수가 실행된 뒤에 표가 나올 것입니다.
 Chart_fin_1
 ```
+<img src="{{ site.url }}{{ site.baseurl }}/images/termproject_3.PNG">
 
 ###  한사람이 평균적으로 기르는 동물 수 많은 순으로 정렬한 표
 
@@ -754,6 +755,7 @@ Chart_fin_1
 ```python
 Chart_fin_2
 ```
+<img src="{{ site.url }}{{ site.baseurl }}/images/termproject_4.PNG">
 
 ### 등록품종수 많은 순으로 정렬한 표
 
@@ -761,5 +763,6 @@ Chart_fin_2
 ```python
 Chart_fin_3
 ```
+<img src="{{ site.url }}{{ site.baseurl }}/images/termproject_5.PNG">
 
 
