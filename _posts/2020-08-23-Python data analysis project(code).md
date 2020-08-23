@@ -761,3 +761,5 @@ Chart_fin_2
 ```python
 Chart_fin_3
 ```
+
+image: "/images/python.PNG"
