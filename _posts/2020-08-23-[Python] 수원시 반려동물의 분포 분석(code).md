@@ -1,7 +1,7 @@
 ---
 tags: [Data Science]
 header:
-  image: "/images/python.PNG"
+  image: "/images/Python_Datascience_Project.PNG"
 excerpt: "Data Science"
 ---
 
