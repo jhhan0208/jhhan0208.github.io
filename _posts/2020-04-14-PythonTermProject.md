@@ -2,8 +2,7 @@
 title: "Website page template"
 date: 2020-04-14
 tags: [others]
-header:
-  image: "/images/python.PNG"
+
 excerpt: "others"
 mathjax: "true"
 ---
