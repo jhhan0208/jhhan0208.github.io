@@ -1055,3 +1055,16 @@ COBRE_test_age = pd.DataFrame({'ID': COBRE_test_data["ID"], 'Age': y_pred_COBRE_
 
 #COBRE_test_age.to_excel('COBRE_test_brain_age_submission_소프트웨어융합학과_2020105742_한지훈_최종.xlsx', index = False)
 ```
+
+
+### 프로젝트 요약
+1. 주어진 feature들로 뇌 나이 예측하는 Gaussian Process Regression 모델 train
+2. 두 관점의 시각화 통해 예측 결과 분석
+3. train된 모델로 test data(IXI test data set, COBRE test data set)의 뇌 나이 예측  
+
+### 느낀 점
+1. 수업에서 배운 machine learning 내용들을 적용할 수 있어서 뿌듯했다.
+2. data science의 한 cycle을 경험해볼 수 있었던 좋은 기회
+
+### 프로젝트 보고서
+<a href="/images/files/프로젝트 최종 보고서.doc">style.doc</a>
