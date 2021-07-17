@@ -1067,4 +1067,4 @@ COBRE_test_age = pd.DataFrame({'ID': COBRE_test_data["ID"], 'Age': y_pred_COBRE_
 2. data science의 한 cycle을 경험해볼 수 있었던 좋은 기회
 
 ### 프로젝트 보고서
-<a href="/images/files/프로젝트 최종 보고서.doc">style.doc</a>
+<a href="/images/files/프로젝트 최종 보고서.doc">프로젝트 최종 보고서.doc</a>
