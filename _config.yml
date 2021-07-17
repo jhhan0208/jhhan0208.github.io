@@ -96,8 +96,8 @@ author:
   name             : "Han Jihoon"
   avatar           : "/images/bio-photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : "Suwon"
-  email            :
+  location         : "Suwon, Korea"
+  email            : "jhhan0208@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
