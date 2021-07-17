@@ -431,7 +431,7 @@ train_data['Age'].plot(kind = 'density')
 
 
 
-![png](output_10_1.png)
+![png](/images/기계학습_term_project/output_10_1.png)
 
 
 ### 필요한 library들 import
