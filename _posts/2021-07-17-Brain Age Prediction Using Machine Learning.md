@@ -509,7 +509,7 @@ plt.show
 
 
 
-![png](output_20_1.png)
+![png](/images/기계학습_term_project/output_20_1.png)
 
 
 
@@ -545,7 +545,7 @@ plt.show
 
 
 
-![png](output_21_1.png)
+![png](/images/기계학습_term_project/output_21_1.png)
 
 
 ### IXI_test data 불러오기
